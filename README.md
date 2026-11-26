@@ -20,6 +20,10 @@ One of the packs this was tested on is a never-released 3DS pack, found on a 4 G
 
 The log shows what was detected and why. If it's wrong, pick the right platform in the toolbar.
 
+## Download
+
+Get the latest version from the [Releases page](https://github.com/IcyModz420/Fast-Showdown-VFS-Editor/releases/latest). Unzip it anywhere and run `FF6PakEditor.exe`. It needs the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) (see [Requirements](#requirements)).
+
 ## Quick start: run an archive that has no index files
 
 1. Back up the game folder.
