@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6E063A4F-7864-4ECF-B2A9-A1A7CEB164B3}") = "FF6PakEditor", "FF6PakEditor\FF6PakEditor.csproj", "{0D4CDADF-B217-4186-BFA5-B6A0D1CB761B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4CDADF-B217-4186-BFA5-B6A0D1CB761B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4CDADF-B217-4186-BFA5-B6A0D1CB761B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4CDADF-B217-4186-BFA5-B6A0D1CB761B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4CDADF-B217-4186-BFA5-B6A0D1CB761B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

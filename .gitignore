@@ -1,0 +1,19 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio state and per-user settings
+.vs/
+*.user
+*.suo
+
+# Local working folders (extracted game scripts, scratch tools)
+Session workspace*/
+
+# Game files: never commit these
+*.pak
+vfs*.zip
+vfs*.bin
+vfs*.dat
+*.luac
+*.bak

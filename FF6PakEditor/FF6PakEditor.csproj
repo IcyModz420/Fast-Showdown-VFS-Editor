@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyTitle>Fast Showdown VFS Editor</AssemblyTitle>
+    <Product>Fast Showdown VFS Editor</Product>
+    <Version>2.0.0</Version>
+    <RootNamespace>FF6PakEditor</RootNamespace>
+    <Platforms>x64;x86;AnyCPU</Platforms>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="tools\**\*" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>
