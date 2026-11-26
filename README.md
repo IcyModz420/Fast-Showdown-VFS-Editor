@@ -2,6 +2,8 @@
 
 Open, edit and rebuild the game archives of **Fast & Furious: Showdown** on **PC, Xbox 360 and 3DS**.
 
+![The editor with the PC game's vfs.zip open: the archive tree on the left, a decompiled race script in the code editor, and the output log below](docs/screenshot.png)
+
 ## You no longer need the original vfs.bin or vfs.dat
 
 The game finds its files through two index files that sit next to the archive: `vfs.bin` and `vfs.dat`. Until now, an archive was only usable with the exact index files it shipped with.
